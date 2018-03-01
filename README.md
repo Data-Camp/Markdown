@@ -27,8 +27,10 @@ Markdown通过如下设计来实现美观性和指代清晰：
 标题
 # 一级标题
 1. 加粗/斜体
+	
 	**数据分析** 加粗；*机器学习* 斜体；*You **can** combine them*
 2. 转义字符 (Backslash Escapes)
+	
 	\*Who am I\*
 3. 有序标签/无序标签
    * 项目一
@@ -38,7 +40,7 @@ Markdown通过如下设计来实现美观性和指代清晰：
 5. 图片
 	![GitHub Logo](https://tse4-mm.cn.bing.net/th?id=OIP.3aMGy-X3Qd1B3ek2dsipDAHaHa&p=0&o=5&pid=1.1)
 6. 代码块
-  GFM: 英文键盘数字1左边键
+  GFM: 英文键盘数字1左边键输入`\``
 ```python
 print (2)
 ```
