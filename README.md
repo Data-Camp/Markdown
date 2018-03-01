@@ -1,5 +1,4 @@
-# Markdown
-Mardown - 规范书写语言
+# Markdown - 规范书写语言 
 
 **Markdown语言简介**
 
