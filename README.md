@@ -36,9 +36,12 @@ Markdown通过如下设计来实现美观性和指代清晰：
 5. 图片
 	![GitHub Logo](https://tse4-mm.cn.bing.net/th?id=OIP.3aMGy-X3Qd1B3ek2dsipDAHaHa&p=0&o=5&pid=1.1)
 6. 代码块
-空四行(Tab)：
-print (1)
-GFM: 英文键盘数字1左边键
+
+  空四行(Tab)：
+
+  print (1)
+
+  GFM: 英文键盘数字1左边键
 ```python
 print (2)
 ```
