@@ -1,6 +1,6 @@
 # Markdown - 规范书写语言 
 
-**Markdown语言简介**
+## Markdown语言简介
 
 Markdown语法的目标是：成为一种适用于网络的书写语言。特性是「易读易书写」。Markdown是一种书写语言，是大家约定好的一种书写有结构的文本文件的方式。而HTML，pdf是发布的格式。一份使用 Markdown 格式撰写的文件应该可以直接以纯文本发布，并且看起来不会像是由许多标签或是格式指令所构成。
 
@@ -8,7 +8,7 @@ Markdown的设计目标是容易转化成HTML发布。所有在Markdown中的标
 
 Markdown有许多衍生版本，GitHub Flavored Markdown（GFM）是GitHub的一个MD语言扩展，对程序员来说很有爱。GFM部分的有爱特性：（1）代码高亮（2）任务列表（3）自动URL链接。
 
-**为什么要写解释性文本？**
+## 为什么要写解释性文本？
 
 可读性。写报告是给别人（机器）看的，不能默认别人和你一样了解你的思路，所以你有义务引导别人更好的理解你的思路。另外，自己也可以忘记之前的思路，所以需要记录方便回忆。
 
@@ -20,7 +20,8 @@ Markdown通过如下设计来实现美观性和指代清晰：
 
 对比直接使用Word进行最合乎直觉的文本编辑，使用Markdown在早期有一个简单的学习曲线，主要是学习各种格式的引用方法。一旦入门，您将逐步感受到Markdown语言的准确性和美观性给文本编辑带来的便捷。
 
-下面让我们在Jupyter中来具体演示Markdown的使用：大家可以打开Jupyter同步进行练习
+## Markdown语法范例：
+
 标题
 # 一级标题
 1. 加粗/斜体
@@ -48,7 +49,7 @@ print (2)
 	> Machine Learning
 	> Deep Learning
 
-**参考：**
+## 参考
 1. [简书：献给写作者的 Markdown 新手指南](https://www.jianshu.com/p/q81RER)
 2. [GitHub: Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 3. [Wikipedia：转义字符](https://zh.wikipedia.org/wiki/%E8%BD%AC%E4%B9%89%E5%AD%97%E7%AC%A6)
